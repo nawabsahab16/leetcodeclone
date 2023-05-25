@@ -8,7 +8,7 @@ type AuthPageProps = {
 
 const AuthPage:React.FC<AuthPageProps> = () => {
     
-    return <div className='bg-gradient-to-b from-gray-700 to-black h-screen relative'>
+    return <div className='bg-gradient-to-b from-gray-500 to-black h-screen relative'>
         <div className='max-w-7xl mx-auto'> 
         <Navbar />
         </div>
